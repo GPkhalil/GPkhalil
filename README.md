@@ -1,13 +1,13 @@
 <!--
   GreenPraxis profile README — Khalil Chouikri
   TODO before committing:
-   1. Replace YOUR-USERNAME everywhere with your GreenPraxis GitHub username.
-   2. Upload a banner.jpg to the repo (or remove the banner line).
-   3. The profile-summary-card-output/* images only appear AFTER you set up the
-      profile-summary-cards GitHub Action (see notes at the bottom of this file).
+   1. Upload a banner.jpg to the GPkhalil/GPkhalil repo (or remove the banner line).
+   2. The profile-summary-card-output/* images only appear AFTER you set up the
+      profile-summary-cards GitHub Action — and the action's USERNAME must be set
+      to GPkhalil (see the workflow note shared alongside this file).
 -->
 
-<img src="https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/main/banner.jpg" alt="banner" />
+<img src="https://github.com/GPkhalil/GPkhalil/blob/main/banner.jpg" alt="banner" />
 
 <h1 align="center">Hi, I'm KHALIL CHOUIKRI</h1>
 
@@ -36,7 +36,7 @@ I specialize in:
 
 Always open to collaborations in **environmental science, geospatial ML/DL, physics**, and applied data science.
 
-**Email:** [khalilchouikri@gmail.com](mailto:khalil@greenpraxis.com)
+**Email:** [khalil@greenpraxis.com](mailto:khalil@greenpraxis.com)
 **Portfolio:** [khalil-chouikri.self.so](https://www.self.so/khalil-chouikri-y38xd5)
 **LinkedIn:** [khalil-chouikri](https://linkedin.com/in/khalil-chouikri-a0065a1a6/)
 
@@ -119,7 +119,7 @@ Always open to collaborations in **environmental science, geospatial ML/DL, phys
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YOUR-USERNAME&theme=dark&hide_border=false" alt="GitHub Streak" width="100%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GPkhalil&theme=dark&hide_border=false" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
@@ -130,7 +130,7 @@ Always open to collaborations in **environmental science, geospatial ML/DL, phys
   <a href="https://linkedin.com/in/khalil-chouikri-a0065a1a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:khalilchouikri@gmail.com" target="_blank">
+  <a href="mailto:khalil@greenpraxis.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.self.so/khalil-chouikri-y38xd5" target="_blank">
@@ -141,7 +141,7 @@ Always open to collaborations in **environmental science, geospatial ML/DL, phys
 ---
 
 <!-- <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=YOUR-USERNAME&icon=0&color=0" alt="Profile Views" />
+  <img src="https://visitcount.itsvg.in/api?id=GPkhalil&icon=0&color=0" alt="Profile Views" />
 </p> -->
 
 ---
