@@ -36,7 +36,7 @@ I specialize in:
 
 Always open to collaborations in **environmental science, geospatial ML/DL, physics**, and applied data science.
 
-**Email:** [khalilchouikri@gmail.com](mailto:khalilchouikri@gmail.com)
+**Email:** [khalilchouikri@gmail.com](mailto:khalil@greenpraxis.com)
 **Portfolio:** [khalil-chouikri.self.so](https://www.self.so/khalil-chouikri-y38xd5)
 **LinkedIn:** [khalil-chouikri](https://linkedin.com/in/khalil-chouikri-a0065a1a6/)
 
