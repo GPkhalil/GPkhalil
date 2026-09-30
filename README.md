@@ -1,14 +1,3 @@
-<!--
-  GreenPraxis profile README — Khalil Chouikri
-  TODO before committing:
-   1. Upload a banner.jpg to the GPkhalil/GPkhalil repo (or remove the banner line).
-   2. The profile-summary-card-output/* images only appear AFTER you set up the
-      profile-summary-cards GitHub Action — and the action's USERNAME must be set
-      to GPkhalil (see the workflow note shared alongside this file).
--->
-
-<img src="https://github.com/GPkhalil/GPkhalil/blob/main/banner.jpg" alt="banner" />
-
 <h1 align="center">Hi, I'm KHALIL CHOUIKRI</h1>
 
 <h3 align="center">Environmental AI • Geospatial Data Science • Machine / Deep Learning • Backend Development</h3>
